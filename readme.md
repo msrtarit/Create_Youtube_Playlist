@@ -63,10 +63,10 @@ This will open a browser window asking for Google authorization. After granting 
 Run the following command to create a playlist and add videos:
 
 ```sh
-python createplaylist.py
+python createPlaylist.py
 ```
 
-Follow the prompts to enter a playlist name and YouTube video links.
+Follow the prompts to enter a playlist name and YouTube video links. One link per line and at the end, enter a blank line.
 
 ## Security Warning
 
@@ -76,7 +76,7 @@ Follow the prompts to enter a playlist name and YouTube video links.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License.](https://github.com/msrtarit/Create_Youtube_Playlist/blob/main/LICENSE.md)
 
 ## Contributions
 
